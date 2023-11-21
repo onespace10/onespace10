@@ -857,7 +857,7 @@ $ git status
 On branch master ☜ 브랜치 작업 위치
 ```
 
-#### branch 목옥으로 확인
+#### branch 목록으로 확인
 
 ```
 $ git branch
